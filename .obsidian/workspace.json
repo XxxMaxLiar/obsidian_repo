@@ -11,19 +11,9 @@
             "id": "407a796929f30431",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "e75c92418fb2917c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Django.md"
               }
             }
           }
@@ -159,11 +149,12 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
+    "Сайт для сотрудников гаража Немяко.md",
+    "Django.md",
+    "Kanban.md",
     "База знаний Backend.md",
     "SQL Основы.md",
     "Виды данных питон.md",
-    "Сайт для сотрудников гаража Немяко.md",
-    "Kanban.md",
     "Идея проекта.md",
     "HUI.md",
     "README.md",
