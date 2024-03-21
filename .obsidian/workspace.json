@@ -11,11 +11,9 @@
             "id": "b374828ad3381b68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Основные команды Git.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные команды Git.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные команды Git.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные команды Git.md"
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -146,9 +144,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3eff5dda5d90147a",
+  "active": "b374828ad3381b68",
   "lastOpenFiles": [
-    "База знаний Backend.md",
-    "Основные команды Git.md"
+    "Основные команды Git.md",
+    "Untitled Kanban.md",
+    "База знаний Backend.md"
   ]
 }
