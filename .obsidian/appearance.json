@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "ITS Theme"
+  "accentColor": "#3c4958",
+  "cssTheme": "GitHub Theme",
+  "theme": "obsidian"
 }
