@@ -1,1 +1,2 @@
-- Идеально изучать с попомощью туториала [[Django Girl
+- Идеально изучать с попомощью туториала [Django Girl](https://tutorial.djangogirls.org/ru/)
+- 
