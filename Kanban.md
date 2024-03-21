@@ -10,6 +10,7 @@ kanban-plugin: basic
 
 ## In Process
 
+- [ ] [[Основные команды Git]]
 
 
 ## In review
