@@ -21,12 +21,8 @@
             "id": "e75c92418fb2917c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Идея проекта.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Идея проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Идея проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Идея проекта.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,6 +152,7 @@
   },
   "active": "e75c92418fb2917c",
   "lastOpenFiles": [
+    "Сайт для сотрудников гаража Немяко.md",
     "Kanban.md",
     "Идея проекта.md",
     "HUI.md",
