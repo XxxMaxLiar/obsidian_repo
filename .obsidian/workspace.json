@@ -16,8 +16,21 @@
                 "file": "Kanban.md"
               }
             }
+          },
+          {
+            "id": "e75c92418fb2917c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Идея проекта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Идея проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "Идея проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Идея проекта.md"
               }
             }
           }
@@ -145,10 +158,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "407a796929f30431",
+  "active": "e75c92418fb2917c",
   "lastOpenFiles": [
-    "HUI.md",
     "Kanban.md",
+    "Идея проекта.md",
+    "HUI.md",
     "README.md",
     "База знаний Backend.md",
     "HUI",
