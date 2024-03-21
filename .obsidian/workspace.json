@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django.md",
-                "mode": "preview",
+                "file": "Сайт для сотрудников гаража Немяко.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django.md",
+                "file": "Сайт для сотрудников гаража Немяко.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django.md",
+                "file": "Сайт для сотрудников гаража Немяко.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django.md"
+                "file": "Сайт для сотрудников гаража Немяко.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
-    "Сайт для сотрудников гаража Немяко.md",
     "Django.md",
+    "Сайт для сотрудников гаража Немяко.md",
     "Kanban.md",
     "База знаний Backend.md",
     "SQL Основы.md",
