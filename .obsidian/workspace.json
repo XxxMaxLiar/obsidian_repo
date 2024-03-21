@@ -145,11 +145,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b374828ad3381b68",
+  "active": "3eff5dda5d90147a",
   "lastOpenFiles": [
-    "Основные команды Git.md",
-    "База знаний Backend.md",
+    "README.md",
     "Kanban.md",
-    "README.md"
+    "База знаний Backend.md",
+    "HUI",
+    "Основные команды Git.md"
   ]
 }
