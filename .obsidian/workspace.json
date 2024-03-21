@@ -11,9 +11,11 @@
             "id": "b374828ad3381b68",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "HUI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "HUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "HUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "HUI.md"
               }
             }
           }
@@ -145,11 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3eff5dda5d90147a",
+  "active": "b374828ad3381b68",
   "lastOpenFiles": [
+    "Kanban.md",
     "HUI.md",
     "README.md",
-    "Kanban.md",
     "База знаний Backend.md",
     "HUI",
     "Основные команды Git.md"
