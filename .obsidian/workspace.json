@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "Виртуальное окружение Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "Виртуальное окружение Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "Виртуальное окружение Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний Backend.md"
+                "file": "Виртуальное окружение Python.md"
               }
             }
           }
@@ -148,10 +148,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65397aeb946397b5",
+  "active": "407a796929f30431",
   "lastOpenFiles": [
-    "Kanban.md",
     "База знаний Backend.md",
+    "Виртуальное окружение Python.md",
+    "Kanban.md",
     "SQL Основы.md",
     "Основные команды Git.md",
     "Сайт для сотрудников гаража Немяко.md",
