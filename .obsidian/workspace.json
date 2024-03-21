@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99bf1a392d9472cb",
+        "id": "a4de654ae7cd07cd",
         "type": "tabs",
         "children": [
           {
-            "id": "b374828ad3381b68",
+            "id": "407a796929f30431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "HUI.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUI.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUI.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUI.md"
+                "file": "Kanban.md"
               }
             }
           }
@@ -147,10 +145,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b374828ad3381b68",
+  "active": "407a796929f30431",
   "lastOpenFiles": [
-    "Kanban.md",
     "HUI.md",
+    "Kanban.md",
     "README.md",
     "База знаний Backend.md",
     "HUI",
