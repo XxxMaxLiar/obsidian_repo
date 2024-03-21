@@ -17,7 +17,7 @@ kanban-plugin: basic
 
 
 
-## Done
+## Done 🤽
 
 
 
