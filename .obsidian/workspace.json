@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сайт для сотрудников гаража Немяко.md",
+                "file": "База знаний Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сайт для сотрудников гаража Немяко.md",
+                "file": "База знаний Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сайт для сотрудников гаража Немяко.md",
+                "file": "База знаний Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сайт для сотрудников гаража Немяко.md"
+                "file": "База знаний Backend.md"
               }
             }
           }
@@ -147,18 +148,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "407a796929f30431",
+  "active": "65397aeb946397b5",
   "lastOpenFiles": [
-    "Django.md",
-    "Сайт для сотрудников гаража Немяко.md",
     "Kanban.md",
     "База знаний Backend.md",
     "SQL Основы.md",
+    "Основные команды Git.md",
+    "Сайт для сотрудников гаража Немяко.md",
     "Виды данных питон.md",
+    "Django.md",
     "Идея проекта.md",
     "HUI.md",
     "README.md",
-    "HUI",
-    "Основные команды Git.md"
+    "HUI"
   ]
 }
