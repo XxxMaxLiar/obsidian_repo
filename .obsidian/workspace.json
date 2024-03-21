@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний Backend.md"
+                "file": "Kanban.md"
               }
             }
           }
@@ -158,10 +157,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e75c92418fb2917c",
+  "active": "407a796929f30431",
   "lastOpenFiles": [
-    "SQL Основы.md",
     "База знаний Backend.md",
+    "SQL Основы.md",
     "Виды данных питон.md",
     "Сайт для сотрудников гаража Немяко.md",
     "Kanban.md",
