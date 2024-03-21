@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] [[Основные команды Git]]
 
 
 ## In Process
 
-- [ ] [[Основные команды Git]]
 
 
 ## In review

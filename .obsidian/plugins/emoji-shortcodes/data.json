@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":watermelon:",
+    ":1st_place_medal:",
+    ":fire:"
+  ]
+}
