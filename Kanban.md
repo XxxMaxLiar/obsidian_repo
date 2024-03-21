@@ -4,16 +4,16 @@ kanban-plugin: basic
 
 ---
 
-## Todo
+## Todo 🔥
 
 - [ ] [[Основные команды Git]]
 
 
-## In Process
+## In Process 🍉
 
 
 
-## In review
+## In review 🥇
 
 
 
