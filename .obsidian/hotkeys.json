@@ -1,18 +1,10 @@
 {
-  "obsidian-kanban:create-new-kanban-board": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
   "theme-picker:open-theme-picker": [
     {
       "modifiers": [
         "Shift"
       ],
-      "key": "2"
+      "key": "3"
     }
   ]
 }
