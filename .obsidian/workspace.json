@@ -21,8 +21,12 @@
             "id": "e75c92418fb2917c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "База знаний Backend.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "База знаний Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "База знаний Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "База знаний Backend.md"
+              }
             }
           }
         ]
@@ -152,12 +160,14 @@
   },
   "active": "e75c92418fb2917c",
   "lastOpenFiles": [
+    "SQL Основы.md",
+    "База знаний Backend.md",
+    "Виды данных питон.md",
     "Сайт для сотрудников гаража Немяко.md",
     "Kanban.md",
     "Идея проекта.md",
     "HUI.md",
     "README.md",
-    "База знаний Backend.md",
     "HUI",
     "Основные команды Git.md"
   ]
