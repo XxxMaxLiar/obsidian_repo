@@ -11,8 +11,10 @@
             "id": "407a796929f30431",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
             }
           }
         ]
@@ -146,9 +148,11 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
+    "README.md",
+    "HUI.md",
+    "Kanban.md",
     "База знаний Backend.md",
     "Основные команды Git.md",
-    "Kanban.md",
     "Написать функци проверки качества пароля.md",
     "Виртуальное окружение Python.md",
     "SQL Основы.md",
@@ -156,8 +160,6 @@
     "Виды данных питон.md",
     "Django.md",
     "Идея проекта.md",
-    "HUI.md",
-    "README.md",
     "HUI"
   ]
 }
