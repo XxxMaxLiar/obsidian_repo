@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUI.md",
+                "file": "База знаний Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUI.md",
+                "file": "База знаний Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUI.md",
+                "file": "База знаний Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUI.md"
+                "file": "База знаний Backend.md"
               }
             }
           }
@@ -149,16 +150,16 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
-    "git reset.md",
-    "Основные команды Git.md",
-    "Сайт для сотрудников гаража Немяко.md",
-    "HUI.md",
     "Kanban.md",
+    "Основные команды Git.md",
+    "git reset.md",
     "База знаний Backend.md",
     "README.md",
+    "HUI.md",
     "Написать функци проверки качества пароля.md",
     "Виртуальное окружение Python.md",
     "SQL Основы.md",
+    "Сайт для сотрудников гаража Немяко.md",
     "Виды данных питон.md",
     "Django.md",
     "Идея проекта.md",
