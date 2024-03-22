@@ -11,9 +11,11 @@
             "id": "407a796929f30431",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Основные команды Git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Основные команды Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "Основные команды Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Основные команды Git.md"
               }
             }
           }
@@ -148,8 +150,8 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
-    "Основные команды Git.md",
     "Kanban.md",
+    "Основные команды Git.md",
     "Написать функци проверки качества пароля.md",
     "База знаний Backend.md",
     "Виртуальное окружение Python.md",
