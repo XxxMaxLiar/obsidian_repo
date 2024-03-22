@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUI.md",
+                "file": "Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUI.md",
+                "file": "Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUI.md",
+                "file": "Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUI.md"
+                "file": "Django.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
+    "HUI.md",
     "База знаний Backend.md",
     "Kanban.md",
     "Основные команды Git.md",
     "git reset.md",
     "README.md",
-    "HUI.md",
     "Написать функци проверки качества пароля.md",
     "Виртуальное окружение Python.md",
     "SQL Основы.md",
