@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git reset.md",
+                "file": "HUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git reset.md",
+                "file": "HUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git reset.md",
+                "file": "HUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git reset.md"
+                "file": "HUI.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
+    "git reset.md",
     "Основные команды Git.md",
     "Сайт для сотрудников гаража Немяко.md",
     "HUI.md",
-    "git reset.md",
     "Kanban.md",
     "База знаний Backend.md",
     "README.md",
