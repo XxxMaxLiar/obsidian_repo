@@ -12,3 +12,5 @@ Changes to be committed:
     modified:   CONTRIBUTING.md
 ```
 
+Прямо под текстом «Changes to be committed» говорится: 
+	используйте `git reset HEAD <file>…​` для исключения из индекса.
