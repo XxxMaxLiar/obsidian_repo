@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "HUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "HUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний Backend.md",
+                "file": "HUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний Backend.md"
+                "file": "HUI.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "407a796929f30431",
   "lastOpenFiles": [
+    "База знаний Backend.md",
     "Kanban.md",
     "Основные команды Git.md",
     "git reset.md",
-    "База знаний Backend.md",
     "README.md",
     "HUI.md",
     "Написать функци проверки качества пароля.md",
