@@ -144,8 +144,7 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "407a796929f30431",
