@@ -1,4 +1,4 @@
-## git add
+<mark style="background: #CACFD9A6;">## git add</mark>
 команда, которая кидает содержимое каталога в индекс для последующего коммита.
 
 ## git status
