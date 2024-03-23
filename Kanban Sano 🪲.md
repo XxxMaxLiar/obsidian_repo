@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## TO DO
 
+- [ ] Сделать апи авторизации, аутентификации
 
 
 ## IN PROCCES
