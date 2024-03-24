@@ -34,7 +34,7 @@ kanban-plugin: basic
 - [ ] [[Основные команды Git]]
 
 
-## Canceled
+## Canceled 🆘
 
 
 
