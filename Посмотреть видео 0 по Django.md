@@ -1,2 +1,2 @@
-Очень рекомендую [видео от Суренаъ(https://www.youtube.com/watch?v=JhzkYcP1OAk)
+Очень рекомендую [видео от Сурена](https://www.youtube.com/watch?v=JhzkYcP1OAk)
 
