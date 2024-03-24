@@ -1,4 +1,4 @@
 https://www.youtube.com/watch?v=VJm_AjiTEEc
 
 
-Нужно помнить
+Нужно помнить, что при git pus
