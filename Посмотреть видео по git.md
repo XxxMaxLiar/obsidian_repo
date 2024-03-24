@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=VJm_AjiTEEc
 
 
-Нужно помнить, что при git pus
+Нужно помнить, что при git push
+нуж
