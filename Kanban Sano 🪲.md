@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## TO DO
 
 - [ ] Сделать апи авторизации, аутентификации
+- [ ] Добавить в задачи storypoint
 
 
 ## IN PROCCES
