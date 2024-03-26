@@ -15,5 +15,5 @@ source venv/bin/activate
 
 <mark style="background: #FF5582A6;">- Напиши, зачем надо и всю хуйню</mark>
 эта хуня нужна, чтобы:
-в
+- при удалении проекта можн
 
