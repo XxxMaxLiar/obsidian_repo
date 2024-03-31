@@ -1,3 +1,3 @@
 Можешь обратиться к [[Django Girl]]
 
-создан
+<mark style="background: #BBFABBA6;">создан</mark>
