@@ -8,3 +8,5 @@ https://tutorial.djangogirls.org/ru/django_admin/
 В моём случае:
   Login: vboxuser
   Password: 2005vfrc 
+
+но
