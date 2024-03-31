@@ -7,4 +7,4 @@ https://tutorial.djangogirls.org/ru/django_admin/
  перед этим нужно создать супер пользователя и перед входом нас попросят ввести пароль.
 В моём случае:
   Login: vboxuser
-  P 
+  Password:2 
