@@ -9,4 +9,4 @@ https://tutorial.djangogirls.org/ru/django_admin/
   Login: vboxuser
   Password: 2005vfrc 
 
-но
+НО! Почему 
