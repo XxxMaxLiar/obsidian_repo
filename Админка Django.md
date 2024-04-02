@@ -10,3 +10,5 @@ https://tutorial.djangogirls.org/ru/django_admin/
   Password: 2005vfrc 
 
 НО! Почему-то при следующем запуске сервера меня не просит эта хуйня ввести пароли и логин.</mark>
+
+Потому что твой 
