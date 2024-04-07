@@ -1,2 +1,3 @@
 [Вся база SQL для начинающих за 1 час](https://www.youtube.com/watch?v=5sG9kmXYsKU&t=4133s)
 
+Если нужно пов
