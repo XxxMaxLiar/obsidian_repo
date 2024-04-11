@@ -1,1 +1,1 @@
-CONSTRAINT (название) FOREIGN_KEY
+CONSTRAINT (название) FOREIGN 
