@@ -1,1 +1,1 @@
-Konstraint
+CONSTRAINT
