@@ -18,7 +18,6 @@ kanban-plugin: basic
 ## In Process 🍉
 
 - [ ] [[Добить django girl]]
-- [ ] [[Виды JOIN SQL]]
 
 
 ## In review 🥇
@@ -27,6 +26,7 @@ kanban-plugin: basic
 - [ ] [[Что такое GROUP BY SQL]]
 - [ ] [[Что такое ORDER BY SQL]]
 - [ ] [[Что такое JOIN SQL]]
+- [ ] [[Виды JOIN SQL]]
 
 
 ## Done 🤽
