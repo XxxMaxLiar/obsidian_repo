@@ -1,1 +1,1 @@
-CONSTRAINT (название)
+CONSTRAINT (название) FOREIGN
