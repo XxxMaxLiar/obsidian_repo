@@ -1,1 +1,1 @@
-CONSTRAINT (название) FOREIGN KEY(название созданной колонки) REFERE
+CONSTRAINT (название) FOREIGN KEY(название созданной колонки) REFERENCTS (назван)
