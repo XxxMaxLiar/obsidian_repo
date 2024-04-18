@@ -6,4 +6,4 @@
 <mark style="background: #BBFABBA6;">poetry env use python</mark>
 
 создание окружения:
-		<mark style="background: #BBFABBA6;">poetry shell</mark>
+		<mark style="background: #BBFABBA6;">      poetry shell</mark>
