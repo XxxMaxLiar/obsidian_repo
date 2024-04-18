@@ -14,4 +14,4 @@
 
 
 чтобы все либы зафризить:
-poetry and requests
+<mark style="background: #BBFABBA6;">poetry and requests</mark>
