@@ -18,4 +18,5 @@
 
 показать дерево зависимостей:
 <mark style="background: #BBFABBA6;">poetry show --tree</mark>
-зачем только перед tree две тирешки хз, ну пофиг
+<mark style="background: #FFF3A3A6;">зачем только перед tree две тирешки хз, ну пофиг
+</mark>
