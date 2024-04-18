@@ -16,5 +16,6 @@
 чтобы все либы зафризить:
 <mark style="background: #BBFABBA6;">poetry and requests</mark>
 
-показать дерево зависимостей
+показать дерево зависимостей:
+poe
 
