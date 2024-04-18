@@ -7,3 +7,8 @@
 
 создание окружения:
 		<mark style="background: #BBFABBA6;">      poetry shell</mark>
+
+
+
+
+
