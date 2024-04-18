@@ -20,3 +20,6 @@
 <mark style="background: #BBFABBA6;">poetry show --tree</mark>
 <mark style="background: #FFF3A3A6;">зачем только перед tree две тирешки хз, ну пофиг
 </mark>
+
+показать последние ли версии у пакетов:
+poetry
