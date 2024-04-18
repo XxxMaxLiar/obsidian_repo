@@ -4,4 +4,4 @@
 для введения в проект в корневой папке проекта пишем:
 <mark style="background: #BBFABBA6;">poetry init</mark>
 <mark style="background: #BBFABBA6;">poetry env use python</mark>
-создание ок
+создание окружения:
