@@ -22,4 +22,5 @@
 </mark>
 
 показать последние ли версии у пакетов:
-poetry show --latest
+<mark style="background: #BBFABBA6;">poetry show --latest
+</mark>
