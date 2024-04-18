@@ -13,3 +13,4 @@
 <mark style="background: #BBFABBA6;">poetry run (название файла)</mark>
 
 
+чтобы все либы зар
