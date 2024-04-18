@@ -18,3 +18,4 @@
 
 показать дерево зависимостей:
 <mark style="background: #BBFABBA6;">poetry show --tree</mark>
+зачем только перед tree 
