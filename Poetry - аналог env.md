@@ -17,5 +17,5 @@
 <mark style="background: #BBFABBA6;">poetry and requests</mark>
 
 показать дерево зависимостей:
-poetry show tree
+poetry show --tree
 
