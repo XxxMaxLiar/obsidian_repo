@@ -14,4 +14,4 @@
 
 
 чтобы все либы зафризить:
-poetry and requse
+poetry and requests
