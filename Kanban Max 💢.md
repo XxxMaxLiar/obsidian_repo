@@ -14,6 +14,7 @@ kanban-plugin: basic
 ## In Process 🍉
 
 - [ ] [[Poetry - аналог env]]
+- [ ] [[Хэш git]]
 
 
 ## In review 🥇
@@ -50,7 +51,6 @@ kanban-plugin: basic
 
 ## Canceled 🆘
 
-- [ ] [[Хэш git]]
 
 
 
