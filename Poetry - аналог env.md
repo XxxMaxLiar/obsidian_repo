@@ -22,4 +22,4 @@
 </mark>
 
 показать последние ли версии у пакетов:
-poetry show --lates
+poetry show --latest
