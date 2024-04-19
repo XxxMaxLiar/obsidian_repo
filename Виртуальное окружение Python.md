@@ -10,6 +10,7 @@ source env/bin/activate
 ```
 python3 -m pip install --upgrade pip
 touch requirements.txt
+django-admin startproject mysite .
 ```
 ```
 
