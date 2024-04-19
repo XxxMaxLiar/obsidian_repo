@@ -9,7 +9,7 @@ python -m venv env
 source env/bin/activate
 ```
 python3 -m pip install --upgrade pip
-touchh requirements.txt
+touch requirements.txt
 ```
 ```
 
