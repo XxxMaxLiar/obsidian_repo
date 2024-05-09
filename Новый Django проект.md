@@ -5,5 +5,5 @@
 - Сюда ссылку прикрепи
 
 
-вот
+вот:
 https://github.com/XxxMaxLiar/Djangoproj
