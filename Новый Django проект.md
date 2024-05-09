@@ -5,5 +5,5 @@
 - Сюда ссылку прикрепи
 
 
-вот:
+<mark style="background: #BBFABBA6;">вот:</mark>
 https://github.com/XxxMaxLiar/Djangoproj
