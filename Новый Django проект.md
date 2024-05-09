@@ -3,3 +3,4 @@
 Это потом будет проект для парсинга ебанутого
 
 - Сюда ссылку прикрепи
+https://github.com/XxxMaxLiar/Djangoproj
