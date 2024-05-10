@@ -10,4 +10,5 @@ https://github.com/XxxMaxLiar/Djangoproj
 
 <mark style="background: #FFB86CA6;">ЧЕКАЮ</mark>
 
-Так я же не могу твой 
+Так я же не могу твой код ревьюить
+Я же 
