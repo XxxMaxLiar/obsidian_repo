@@ -8,4 +8,4 @@
 <mark style="background: #BBFABBA6;">вот:</mark>
 https://github.com/XxxMaxLiar/Djangoproj
 
-ЧЕКАЮ
+<mark style="background: #FFB86CA6;">ЧЕКАЮ</mark>
