@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] [[Написать функци проверки качества пароля]]
 - [ ] [[Что такое GROUP BY SQL]]
 - [ ] [[Что такое ORDER BY SQL]]
+- [ ] [Что такое JOIN SQL](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20JOIN%20SQL)
 - [ ] [[Что такое JOIN SQL]]
 - [ ] [[Виды JOIN SQL]]
 - [ ] [[Foreign_Key Базы Данных]]
