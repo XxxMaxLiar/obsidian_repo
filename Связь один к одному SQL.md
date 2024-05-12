@@ -1,1 +1,1 @@
-https://habr.com/ru/articles/488054/
+https://habr.com/ru/articles/488054/ - база
