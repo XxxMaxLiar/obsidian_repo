@@ -1,0 +1,1 @@
+https://dvmn.org/encyclopedia/django_orm/foreign-key/
