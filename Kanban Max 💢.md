@@ -21,11 +21,11 @@ kanban-plugin: basic
 
 ## In review 🥇
 
-- [ ] [[Foreign_Key Базы Данных]]
 
 
 ## Done 🤽
 
+- [ ] [[Foreign_Key Базы Данных]]
 - [ ] [[Виды JOIN SQL]]
 - [ ] [Что такое JOIN SQL](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20JOIN%20SQL)
 - [ ] [[Что такое ORDER BY SQL]]
